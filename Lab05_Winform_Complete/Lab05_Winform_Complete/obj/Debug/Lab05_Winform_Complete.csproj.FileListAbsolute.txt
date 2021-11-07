@@ -1,0 +1,10 @@
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab05_Winform_Complete\Lab05_Winform_Complete\bin\Debug\Lab05_Winform_Complete.exe.config
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab05_Winform_Complete\Lab05_Winform_Complete\bin\Debug\Lab05_Winform_Complete.exe
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab05_Winform_Complete\Lab05_Winform_Complete\bin\Debug\Lab05_Winform_Complete.pdb
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab05_Winform_Complete\Lab05_Winform_Complete\obj\Debug\Lab05_Winform_Complete.csproj.AssemblyReference.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab05_Winform_Complete\Lab05_Winform_Complete\obj\Debug\Lab05_Winform_Complete.Form1.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab05_Winform_Complete\Lab05_Winform_Complete\obj\Debug\Lab05_Winform_Complete.Properties.Resources.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab05_Winform_Complete\Lab05_Winform_Complete\obj\Debug\Lab05_Winform_Complete.csproj.GenerateResource.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab05_Winform_Complete\Lab05_Winform_Complete\obj\Debug\Lab05_Winform_Complete.csproj.CoreCompileInputs.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab05_Winform_Complete\Lab05_Winform_Complete\obj\Debug\Lab05_Winform_Complete.exe
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab05_Winform_Complete\Lab05_Winform_Complete\obj\Debug\Lab05_Winform_Complete.pdb

@@ -1,0 +1,14 @@
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\bin\Debug\Lab06_Basic_Command.exe.config
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\bin\Debug\Lab06_Basic_Command.exe
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\bin\Debug\Lab06_Basic_Command.pdb
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.csproj.AssemblyReference.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.AccountManagerForm.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.BillDetailsForm.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.BillsForm.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.frmFood.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.Form1.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.Properties.Resources.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.csproj.GenerateResource.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.csproj.CoreCompileInputs.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.exe
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.pdb
