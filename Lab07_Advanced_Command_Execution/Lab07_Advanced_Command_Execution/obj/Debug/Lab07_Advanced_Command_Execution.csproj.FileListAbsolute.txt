@@ -1,0 +1,11 @@
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\bin\Debug\Lab07_Advanced_Command_Execution.exe.config
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\bin\Debug\Lab07_Advanced_Command_Execution.exe
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\bin\Debug\Lab07_Advanced_Command_Execution.pdb
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.csproj.AssemblyReference.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.Form1.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.FormFoodInfo.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.Properties.Resources.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.csproj.GenerateResource.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.csproj.CoreCompileInputs.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.exe
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.pdb
