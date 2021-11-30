@@ -1,0 +1,9 @@
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\bin\Debug\Lab08.BUS.dll
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\bin\Debug\Lab08.BUS.pdb
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\bin\Debug\Lab08.DA.dll
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\bin\Debug\Lab08.DA.pdb
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.csproj.AssemblyReference.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.csproj.CoreCompileInputs.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.csproj.CopyComplete
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.dll
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08.BUS\obj\Debug\Lab08.BUS.pdb

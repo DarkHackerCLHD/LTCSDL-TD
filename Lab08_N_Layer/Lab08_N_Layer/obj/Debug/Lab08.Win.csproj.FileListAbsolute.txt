@@ -1,0 +1,16 @@
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08_N_Layer.exe.config
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08_N_Layer.exe
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08_N_Layer.pdb
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08.BUS.dll
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08.DA.dll
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08.BUS.pdb
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\bin\Debug\Lab08.DA.pdb
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.AssemblyReference.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08_N_Layer.frmFood.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08_N_Layer.Properties.Resources.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.GenerateResource.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.CoreCompileInputs.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08.Win.csproj.CopyComplete
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08_N_Layer.exe
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab08_N_Layer\Lab08_N_Layer\obj\Debug\Lab08_N_Layer.pdb
