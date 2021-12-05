@@ -1,0 +1,17 @@
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe.config
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.pdb
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.dll
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.xml
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.AssemblyReference.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.MainForm.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.Properties.Resources.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateCategoryForm.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateFoodForm.resources
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.GenerateResource.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CoreCompileInputs.cache
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CopyComplete
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.exe
+D:\Downloads\LT-CSDL-master\LT-CSDL-master\Lab09_Entity_Framework\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.pdb
